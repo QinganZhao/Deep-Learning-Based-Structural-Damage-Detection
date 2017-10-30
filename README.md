@@ -1,2 +1,2 @@
 # Deep_Learning_based_Structural_Damage_Detection
-Stuctural damage identification and localization using convolutional neural betworks
+Stuctural damage identification and localization using convolutional neural networks
