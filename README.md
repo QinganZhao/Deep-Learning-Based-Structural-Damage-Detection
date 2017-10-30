@@ -28,44 +28,44 @@ Due to the high performance of deep learning in image classification, it is real
 
 Hence, two contributions are aimed to be made in this project. First, more than one type of damage detection is first realized, and CNN models in this project are going deeper (the deepest CNN in this project is based on GoogLeNet with 22 layers). Second, a region proposal-based deep learning method for damage detection is also first utilized.
 
-#References
+# References
 
- Automatic Morphologic Analysis of Quasi-Periodic Masonry Walls from LiDAR
- Global Sensitivity-Based Model Updating for Heritage Structures
- Boscato G, Cin A D, Ientile S, et al. Optimized procedures and strategies for the dynamic monitoring of historical structures[J]. Journal of Civil Structural Health Monitoring, 2016, 6(2):265-289.
- Ubertini, Filippo, Gabriele Comanducci, and Nicola Cavalagli. "Vibration-based structural health monitoring of a historic bell-tower using output-only measurements and multivariate statistical analysis." Structural Health Monitoring 15.4 (2016): 438-457.
- Fang D P, Iwasaki S, Yu M H, et al. Ancient Chinese Timber Architecture. I: Experimental Study[J]. Journal of Structural Engineering, 2001, 127(11):1348-1357.
- Zhang S, Lu R. ICA 3 D – Intelligent computer-aided ancient Chinese architecture design[J]. Advanced Engineering Informatics, 2012, 26(4):705-715.
- Balageas D. Introduction to structural health monitoring[M]. ISTE, 2006.
- Risk Management of Large RC Structureswithin Spatial Information System
- Condition Assessment by Visual Inspectionfor a Bridge Management System
- Texture Analysis Based Damage Detection of AgeingInfrastructural Elements
- Miyamoto A, Isoda S. Sensitivity analysis of mechanical behaviors for bridge damage assessment[J]. Structural Engineering and Mechanics, 2012, 41(4): 539-558.
- Health monitoring of structures under ambient vibrations using semiactive devices
- Analytical Damping Evaluation Complementary to Experimental Structural Health Monitoring of Bridges
- Zhao X, Zhao Q, Yu Y, et al. Distributed Displacement Response Investigation Technique for Bridge Structures Using Smartphones[J]. Journal of Performance of Constructed Facilities, 2017, 31(4): 04017029.
- Nishikawa, T., Yoshida, J., Sugiyama, T., & Fujino, Y. (2012). Concrete crack detection by multiple sequential image filtering. Computer-Aided Civil and Infrastructure Engineering, 27(1), 29-47.
- Yeum, C. M., & Dyke, S. J. (2015). Vision-Based Automated Crack Detection for Bridge Inspection. Computer-Aided Civil and Infrastructure Engineering, 30(10), 759-770.
- Ghiassi B, Xavier J, Oliveira D V, et al. Application of digital image correlation in investigating the bond between FRP and masonry[J]. Composite Structures, 2013, 106: 340-349.
- Nejad F M, Motekhases F Z, Zakeri H, et al. An Image Processing Approach to Asphalt Concrete Feature Extraction[J]. Journal of Industrial and Intelligent Information Vol, 2015, 3(1).
- Mahal M, Blanksvärd T, Täljsten B, et al. Using digital image correlation to evaluate fatigue behavior of strengthened reinforced concrete beams[J]. Engineering Structures, 2015, 105: 277-288.
- Hamrat M, Boulekbache B, Chemrouk M, et al. Flexural cracking behavior of normal strength, high strength and high strength fiber concrete beams, using Digital Image Correlation technique[J]. Construction and Building Materials, 2016, 106: 678-692.
- Imaging-based detection of AAR induced map-crack damage in concrete structure
- Intelligent crack detecting algorithm on the concrete crack image using neural network
- O’Byrne M, Schoefs F, Ghosh B, et al. Texture analysis based damage detection of ageing infrastructural elements[J]. Computer-Aided Civil and Infrastructure Engineering, 2013, 28(3): 162-177.
- Plevris V, Asteris P G. Modeling of masonry failure surface under biaxial compressive stress using Neural Networks[J]. Construction and Building Materials, 2014, 55: 447-461.
- Wu L, Mokhtari S, Nazef A, et al. Improvement of crack-detection accuracy using a novel crack defragmentation technique in image-based road assessment[J]. Journal of Computing in Civil Engineering, 2014, 30(1): 04014118.
- Hinton G E, Osindero S, Teh Y W. A fast learning algorithm for deep belief nets[J]. Neural Computation, 2006, 18(7):1527-1554.
- Hubel D H, Wiesel T N. Receptive fields, binocular interaction and functional architecture in the cat's visual cortex.[J]. Journal of Physiology, 1962, 160(1):106.
- Lecun Y, Bottou L, Bengio Y, et al. Gradient-based learning applied to document recognition[J]. Proceedings of the IEEE, 1998, 86(11):2278-2324.
- Lindholm E, Nickolls J, Oberman S, et al. NVIDIA Tesla: A Unified Graphics and Computing Architecture[J]. IEEE Micro, 2008, 28(2):39-55.
- Stanford Vision Lab. Large Scale Visual Recognition Challenge (ILSVRC)[EB/OL]. [2017, 04, 24]. http://www.image-net.org/challenges/LSVRC/
- Krizhevsky A, Sutskever I, Hinton G E. ImageNet classification with deep convolutional neural networks[C]// International Conference on Neural Information Processing Systems. Curran Associates Inc. 2012:1097-1105.
- Zeiler M D, Fergus R. Visualizing and understanding convolutional networks[C]//European conference on computer vision. Springer International Publishing, 2014: 818-833.
- Szegedy C, Liu W, Jia Y, et al. Going deeper with convolutions[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 1-9.
- He K, Zhang X, Ren S, et al. Deep Residual Learning for Image Recognition[C]// Computer Vision and Pattern Recognition. IEEE, 2016:770-778.
- Oullette R, Browne M, Hirasawa K. Genetic algorithm optimization of a convolutional neural network for autonomous crack detection[C]//Evolutionary Computation, 2004. CEC2004. Congress on. IEEE, 2004, 1: 516-521.
- Makantasis K, Protopapadakis E, Doulamis A, et al. Deep convolutional neural networks for efficient vision based tunnel inspection[C]//Intelligent Computer Communication and Processing (ICCP), 2015 IEEE International Conference on. IEEE, 2015: 335-342.
- Protopapadakis E, Makantasis K, Kopsiaftis G, et al. Crack identification via user feedback, convolutional neural networks and laser scanners for tunnel infrastructures[C]//the 11th Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 2016: 725-734.
- Cha Y J, Choi W, Buyukozturk O. Deep learning-based crack damage detection using convolutional neural network"[J]. Computer-Aided Civil and Infrastructure Engineering, 2017, 32(3): 2013-2014.
+ 1. Automatic Morphologic Analysis of Quasi-Periodic Masonry Walls from LiDAR
+ 2. Global Sensitivity-Based Model Updating for Heritage Structures
+ 3. Boscato G, Cin A D, Ientile S, et al. Optimized procedures and strategies for the dynamic monitoring of historical structures[J]. Journal of Civil Structural Health Monitoring, 2016, 6(2):265-289.
+ 4. Ubertini, Filippo, Gabriele Comanducci, and Nicola Cavalagli. "Vibration-based structural health monitoring of a historic bell-tower using output-only measurements and multivariate statistical analysis." Structural Health Monitoring 15.4 (2016): 438-457.
+ 5. Fang D P, Iwasaki S, Yu M H, et al. Ancient Chinese Timber Architecture. I: Experimental Study[J]. Journal of Structural Engineering, 2001, 127(11):1348-1357.
+ 6. Zhang S, Lu R. ICA 3 D – Intelligent computer-aided ancient Chinese architecture design[J]. Advanced Engineering Informatics, 2012, 26(4):705-715.
+ 7. Balageas D. Introduction to structural health monitoring[M]. ISTE, 2006.
+ 8. Risk Management of Large RC Structureswithin Spatial Information System
+ 9. Condition Assessment by Visual Inspectionfor a Bridge Management System
+ 10. Texture Analysis Based Damage Detection of AgeingInfrastructural Elements
+ 11. Miyamoto A, Isoda S. Sensitivity analysis of mechanical behaviors for bridge damage assessment[J]. Structural Engineering and Mechanics, 2012, 41(4): 539-558.
+ 12. Health monitoring of structures under ambient vibrations using semiactive devices
+ 13. Analytical Damping Evaluation Complementary to Experimental Structural Health Monitoring of Bridges
+ 14. Zhao X, Zhao Q, Yu Y, et al. Distributed Displacement Response Investigation Technique for Bridge Structures Using Smartphones[J]. Journal of Performance of Constructed Facilities, 2017, 31(4): 04017029.
+ 15. Nishikawa, T., Yoshida, J., Sugiyama, T., & Fujino, Y. (2012). Concrete crack detection by multiple sequential image filtering. Computer-Aided Civil and Infrastructure Engineering, 27(1), 29-47.
+ 16. Yeum, C. M., & Dyke, S. J. (2015). Vision-Based Automated Crack Detection for Bridge Inspection. Computer-Aided Civil and Infrastructure Engineering, 30(10), 759-770.
+ 17. Ghiassi B, Xavier J, Oliveira D V, et al. Application of digital image correlation in investigating the bond between FRP and masonry[J]. Composite Structures, 2013, 106: 340-349.
+ 18. Nejad F M, Motekhases F Z, Zakeri H, et al. An Image Processing Approach to Asphalt Concrete Feature Extraction[J]. Journal of Industrial and Intelligent Information Vol, 2015, 3(1).
+ 19. Mahal M, Blanksvärd T, Täljsten B, et al. Using digital image correlation to evaluate fatigue behavior of strengthened reinforced concrete beams[J]. Engineering Structures, 2015, 105: 277-288.
+ 20. Hamrat M, Boulekbache B, Chemrouk M, et al. Flexural cracking behavior of normal strength, high strength and high strength fiber concrete beams, using Digital Image Correlation technique[J]. Construction and Building Materials, 2016, 106: 678-692.
+ 21. Imaging-based detection of AAR induced map-crack damage in concrete structure
+ 22. Intelligent crack detecting algorithm on the concrete crack image using neural network
+ 23. O’Byrne M, Schoefs F, Ghosh B, et al. Texture analysis based damage detection of ageing infrastructural elements[J]. Computer-Aided Civil and Infrastructure Engineering, 2013, 28(3): 162-177.
+ 24. Plevris V, Asteris P G. Modeling of masonry failure surface under biaxial compressive stress using Neural Networks[J]. Construction and Building Materials, 2014, 55: 447-461.
+ 25. Wu L, Mokhtari S, Nazef A, et al. Improvement of crack-detection accuracy using a novel crack defragmentation technique in image-based road assessment[J]. Journal of Computing in Civil Engineering, 2014, 30(1): 04014118.
+ 26. Hinton G E, Osindero S, Teh Y W. A fast learning algorithm for deep belief nets[J]. Neural Computation, 2006, 18(7):1527-1554.
+ 27. Hubel D H, Wiesel T N. Receptive fields, binocular interaction and functional architecture in the cat's visual cortex.[J]. Journal of Physiology, 1962, 160(1):106.
+ 28. Lecun Y, Bottou L, Bengio Y, et al. Gradient-based learning applied to document recognition[J]. Proceedings of the IEEE, 1998, 86(11):2278-2324.
+ 29. Lindholm E, Nickolls J, Oberman S, et al. NVIDIA Tesla: A Unified Graphics and Computing Architecture[J]. IEEE Micro, 2008, 28(2):39-55.
+ 30. Stanford Vision Lab. Large Scale Visual Recognition Challenge (ILSVRC)[EB/OL]. [2017, 04, 24]. http://www.image-net.org/challenges/LSVRC/
+ 31. Krizhevsky A, Sutskever I, Hinton G E. ImageNet classification with deep convolutional neural networks[C]// International Conference on Neural Information Processing Systems. Curran Associates Inc. 2012:1097-1105.
+ 32. Zeiler M D, Fergus R. Visualizing and understanding convolutional networks[C]//European conference on computer vision. Springer International Publishing, 2014: 818-833.
+ 33. Szegedy C, Liu W, Jia Y, et al. Going deeper with convolutions[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 1-9.
+ 34. He K, Zhang X, Ren S, et al. Deep Residual Learning for Image Recognition[C]// Computer Vision and Pattern Recognition. IEEE, 2016:770-778.
+ 35. Oullette R, Browne M, Hirasawa K. Genetic algorithm optimization of a convolutional neural network for autonomous crack detection[C]//Evolutionary Computation, 2004. CEC2004. Congress on. IEEE, 2004, 1: 516-521.
+ 36. Makantasis K, Protopapadakis E, Doulamis A, et al. Deep convolutional neural networks for efficient vision based tunnel inspection[C]//Intelligent Computer Communication and Processing (ICCP), 2015 IEEE International Conference on. IEEE, 2015: 335-342.
+ 37. Protopapadakis E, Makantasis K, Kopsiaftis G, et al. Crack identification via user feedback, convolutional neural networks and laser scanners for tunnel infrastructures[C]//the 11th Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 2016: 725-734.
+ 38. Cha Y J, Choi W, Buyukozturk O. Deep learning-based crack damage detection using convolutional neural network"[J]. Computer-Aided Civil and Infrastructure Engineering, 2017, 32(3): 2013-2014.
 
