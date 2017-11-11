@@ -1,0 +1,14 @@
+fast_rcnn startup done
+GPU 1: free memory 11091546112
+Use GPU 1
+01.jpg (760x696): time 0.039s (resize+conv+proposal: 0.022s, nms+regionwise: 0.018s)
+02.jpg (759x696): time 0.047s (resize+conv+proposal: 0.029s, nms+regionwise: 0.019s)
+03.jpg (760x696): time 0.037s (resize+conv+proposal: 0.017s, nms+regionwise: 0.020s)
+04.jpg (760x696): time 0.038s (resize+conv+proposal: 0.019s, nms+regionwise: 0.019s)
+05.jpg (760x696): time 0.036s (resize+conv+proposal: 0.018s, nms+regionwise: 0.018s)
+06.jpg (759x696): time 0.038s (resize+conv+proposal: 0.018s, nms+regionwise: 0.020s)
+07.jpg (760x696): time 0.036s (resize+conv+proposal: 0.018s, nms+regionwise: 0.018s)
+08.jpg (760x696): time 0.044s (resize+conv+proposal: 0.020s, nms+regionwise: 0.024s)
+09.jpg (759x696): time 0.036s (resize+conv+proposal: 0.018s, nms+regionwise: 0.018s)
+mean time: 0.039s
+Cleared 0 solvers and 2 stand-alone nets
