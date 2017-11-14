@@ -30,9 +30,10 @@ Hence, two contributions are aimed to be made in this project. First, more than 
 
 # Figures
 
-<div align=center><img width="300" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig1.png>
+<div align=center><img width="600" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig1.png>
 
 <div align=left>
+ 
 # References
 
  1. Riveiro, B., Lourenço, P. B., Oliveira, D. V., González‐Jorge, H., & Arias, P. (2016). Automatic morphologic analysis of quasi‐periodic masonry walls from lidar. Computer-Aided Civil and Infrastructure Engineering, 31(4), 305-319.
