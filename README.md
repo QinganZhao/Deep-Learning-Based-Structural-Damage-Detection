@@ -32,7 +32,7 @@ Hence, two contributions are aimed to be made in this project. First, more than 
 
 <div align=center><img width="450" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig1.png>
  
-<div align=center><img width="450" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig2.pdf>
+<div align=center><embed width="450" =https://raw.githubusercontent.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/b091082a0096e0e55432c25d33cc574dae7cc603/markdown_figures/fig2.pdf>
  
 <div align=center><img width="450" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig3.pdf>
  
