@@ -32,23 +32,43 @@ Hence, two contributions are aimed to be made in this project. First, more than 
 
 <div align=center><img width="450" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig1.png>
  
+**Fig. 1:** Schematic diagram of image classification for a brick unit
+ 
 <img width="450" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig2.png>
+
+**Fig. 2:**
  
 <img width="450" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig3.png>
+
+**Fig. 3:**
  
 <img width="350" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig4a.png>  <img width="350" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig4b.png>  <img width="350" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig4c.png>  <img width="350" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig4d.png>
 
+**Fig. 4:**
+
 <img width="250" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig5.png>
+
+**Fig. 5:**
 
 <img width="600" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig6a.png>  <img width="600" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig6b.png>
 
+**Fig. 6:**
+
 <img width="600" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig7a.png>  <img width="600" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig7b.png>
+
+**Fig. 7:**
 
 <img width="500" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig8.png>
 
+**Fig. 8:**
+
 <img width="400" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig9a.png>  <img width="400" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig9b.png>  <img width="400" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig9c.png>
 
+**Fig. 9:**
+
 <img height="300" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig10a.png>  <img height="300" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig10b.png>  <img height="300" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig10c.png>
+
+**Fig. 10:**
 
 <div align=left>
  
