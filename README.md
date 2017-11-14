@@ -28,6 +28,10 @@ Due to the high performance of deep learning in image classification, it is real
 
 Hence, two contributions are aimed to be made in this project. First, more than one type of damage detection is first realized, and CNN models in this project are going deeper (the deepest CNN in this project is based on GoogLeNet with 22 layers). Second, a region proposal-based deep learning method for damage detection is also first utilized.
 
+# Figures
+
+![Aaron Swartz](https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig1.png)
+
 # References
 
  1. Riveiro, B., Lourenço, P. B., Oliveira, D. V., González‐Jorge, H., & Arias, P. (2016). Automatic morphologic analysis of quasi‐periodic masonry walls from lidar. Computer-Aided Civil and Infrastructure Engineering, 31(4), 305-319.
