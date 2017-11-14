@@ -30,7 +30,7 @@ Hence, two contributions are aimed to be made in this project. First, more than 
 
 # Figures
 
-<div align=center><img width="50" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig1.png>
+<div align=center img width="300" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig1.png>
 
 # References
 
