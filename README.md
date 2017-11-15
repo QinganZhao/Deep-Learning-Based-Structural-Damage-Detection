@@ -2,8 +2,6 @@
  
 # Deep Learning based Structural Damage Detection
 
-Stuctural damage identification and localization using convolutional neural networks 
-
 Franklin Zhao (me, email: qingan_zhao@berkeley.edu)
 
 Xuefeng Zhao (my undergraduate advisor who supported this project) 
@@ -16,7 +14,7 @@ June 2016
 
 ## Project Summary
 
-1. Proposed a damage identification and localization technique for masonry structures using convolutional neural networks (based on AlexNet and GoogleNet using Caffe and Tensorflow).
+1. Proposed a damage identification and localization technique for masonry structures using convolutional neural networks (based on AlexNet and GoogleNet using Caffe).
 
 2. Applied region-based convolutional neural networks (Faster-RCNN) to damage detection for masonry structures.
 
