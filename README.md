@@ -4,9 +4,11 @@
 
 Stuctural damage identification and localization using convolutional neural networks 
 
-Franklin Zhao (qingan_zhao@berkeley.edu)
+Franklin Zhao (me, email: qingan_zhao@berkeley.edu)
 
-Xuefeng Zhao & Peng Zhao
+Xuefeng Zhao (my undergraduate advisor who supported this project) 
+
+Peng Zhao (provided the data-set for this project)
 
 June 2016
 
@@ -142,5 +144,7 @@ Hence, two contributions are aimed to be made in this project. First, more than 
  36. Makantasis, K., Protopapadakis, E., Doulamis, A., Doulamis, N., & Loupos, C. (2015). Deep Convolutional Neural Networks for efficient vision based tunnel inspection. IEEE International Conference on Intelligent Computer Communication and Processing (pp.335-342). IEEE.
  37. Protopapadakis, E., Makantasis, K., & Kopsiaftis, G., et al. (2016). Crack identification via user feedback, convolutional neural networks and laser scanners for tunnel infrastructures. The 11th Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 2016: 725-734.
  38. Cha, Y. J., Choi, W., & Büyüköztürk, O. (2017). Deep learning‐based crack damage detection using convolutional neural networks. Computer‐aided Civil & Infrastructure Engineering, 32(5), 361-378.
+
+For more details please see my undergraduate thesis uploaded in the "thesis based on this project (in Chinese)" folder. Unfortunately I do not have a English version for the time being.
 
 ### Please cite this project in your publications if it helps your research
