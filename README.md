@@ -44,55 +44,55 @@ Hence, two contributions are aimed to be made in this project. First, more than 
  
 <img width="450" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig2.png>
 
-**Fig. 2:**
+**Fig. 2:** Schematic diagram of CNN-based damage identification and classification for a brick unit
  
 <br />
  
 <img width="450" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig3.png>
 
-**Fig. 3:**
+**Fig. 3:** Comparison of fully connected mode and locally connected mode: (a) fully connected mode, and (b) locally connected mode
  
 <br /> 
  
 <img width="350" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig4a.png>  <img width="350" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig4b.png>  <img width="350" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig4c.png>  <img width="350" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig4d.png>
 
-**Fig. 4:**
+**Fig. 4:** Training samples of the 4 categories: (a) intact, (b) spall, (c) crack, and (d) efflorescence for CNN
 
 <br /> 
 
 <img width="250" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig5.png>
 
-**Fig. 5:**
+**Fig. 5:** Training sample for Faster-RCNN
 
 <br /> 
 
 <img width="600" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig6a.png>  <img width="600" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig6b.png>
 
-**Fig. 6:**
+**Fig. 6:** Results of training using AlexNet-8: (a) train loss, and (b) validation accuracy
 
 <br /> 
 
 <img width="600" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig7a.png>  <img width="600" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig7b.png>
 
-**Fig. 7:**
+**Fig. 7:** Results of training using GoogLeNet-22: (a) train loss, and (b) validation accuracy
 
 <br /> 
 
 <img width="500" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig8.png>
 
-**Fig. 8:**
+**Fig. 8:** Sliding window strategy
 
 <br /> 
 
 <img width="400" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig9a.png>  <img width="400" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig9b.png>  <img width="400" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig9c.png>
 
-**Fig. 9:**
+**Fig. 9:** Test results based on GoogLeNet-22 together with sliding window algorithm
 
 <br /> 
 
 <img height="300" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig10a.png>  <img height="300" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig10b.png>  <img height="300" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig10c.png>
 
-**Fig. 10:**
+**Fig. 10:** Test results based on Faster-RCNN
 
 <br /> 
 
@@ -139,3 +139,4 @@ Hence, two contributions are aimed to be made in this project. First, more than 
  37. Protopapadakis, E., Makantasis, K., & Kopsiaftis, G., et al. (2016). Crack identification via user feedback, convolutional neural networks and laser scanners for tunnel infrastructures. The 11th Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 2016: 725-734.
  38. Cha, Y. J., Choi, W., & Büyüköztürk, O. (2017). Deep learning‐based crack damage detection using convolutional neural networks. Computer‐aided Civil & Infrastructure Engineering, 32(5), 361-378.
 
+###Please cite this project in your publications if it helps your research
