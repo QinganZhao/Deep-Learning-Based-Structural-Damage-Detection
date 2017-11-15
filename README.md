@@ -5,7 +5,9 @@
 Stuctural damage identification and localization using convolutional neural networks 
 
 Franklin Zhao (qingan_zhao@berkeley.edu)
+
 Xuefeng Zhao & Peng Zhao
+
 June 2016
 
 <div align=left>
