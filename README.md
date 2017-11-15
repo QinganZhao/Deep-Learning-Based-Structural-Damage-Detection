@@ -2,11 +2,11 @@
  
 # Deep Learning based Structural Damage Detection
 
-Franklin Zhao (me, email: qingan_zhao@berkeley.edu)
+**Franklin Zhao** (me, email: qingan_zhao@berkeley.edu)
 
-Xuefeng Zhao (my undergraduate advisor who supported this project) 
+**Xuefeng Zhao** (my undergraduate advisor who supported this project) 
 
-Peng Zhao (provided the data-set for this project)
+**Peng Zhao** (provided the data-set for this project)
 
 June 2017
 
