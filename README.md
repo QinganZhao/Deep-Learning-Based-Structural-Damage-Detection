@@ -139,4 +139,4 @@ Hence, two contributions are aimed to be made in this project. First, more than 
  37. Protopapadakis, E., Makantasis, K., & Kopsiaftis, G., et al. (2016). Crack identification via user feedback, convolutional neural networks and laser scanners for tunnel infrastructures. The 11th Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 2016: 725-734.
  38. Cha, Y. J., Choi, W., & Büyüköztürk, O. (2017). Deep learning‐based crack damage detection using convolutional neural networks. Computer‐aided Civil & Infrastructure Engineering, 32(5), 361-378.
 
-###Please cite this project in your publications if it helps your research
+### Please cite this project in your publications if it helps your research
