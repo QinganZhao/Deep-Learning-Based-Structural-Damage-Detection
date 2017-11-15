@@ -18,7 +18,7 @@ Franklin Zhao (qingan_zhao@berkeley.edu)
 
 **Abstract:** Manual inspection (i.e., visual inspection and/or with professional equipment) is the most dominant approach to identifying and assessing superficial damage to masonry historic structures at present. However, such method is inefficient, heavily relying on professionals and their experience. To overcome those limits, in this project, two deep learning-based damage detection techniques for masonry historic structures are proposed. One is using a sliding window-based deep learning method to identify and localize 3 damage categories (crack, efflorescence and spall) with the accuracy of 90.9%, the other is using a region proposal-based deep learning method to detect damaged brick units in quasi real-time (0.047 seconds per image). The advantage of deep learning method is that with sufficient training samples, machines are able to learn how to detect the damage automatically via training without using manual feature extraction techniques. Once the model training is complete, it can be used to detect damage directly. The detection requires hardly any professional abilities or experience, and is hardly affected by the environment. Hence, high efficiency and accuracy can be realized.
 
-# Introduction
+## Introduction
 
 State-of-the-art structural health monitoring (SHM) techniques have been studied and applied to historic structures on account of their complexity, heterogeneity and long tradition of existence (1,2,3,4). Masonry has always been one of the key materials of historic structures, mainly in the form of walls which carry loads and provide security. The safety of masonry structures is of vital importance in the maintenance of historic architecture (5,6). As structures gradually deteriorate, they are likely to be subjected to various forms of damage, mainly resulting in the reduction of strength, stiffness and integrity. Such damage always reflects on the surface of structures, such as crack, efflorescence, spall, and so forth. Hence, it is of great significance to identify and localize the superficial damage quickly and efficiently. The work can be regarded as guidance for structural repair, maintenance and management afterwards (7).
 
@@ -34,7 +34,7 @@ Due to the high performance of deep learning in image classification, it is real
 
 Hence, two contributions are aimed to be made in this project. First, more than one type of damage detection is first realized, and CNN models in this project are going deeper (the deepest CNN in this project is based on GoogLeNet with 22 layers). Second, a region proposal-based deep learning method for damage detection is also first utilized.
 
-# Figures
+## Figures
 
 <div align=center><img width="450" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig1.png>
  
@@ -46,41 +46,59 @@ Hence, two contributions are aimed to be made in this project. First, more than 
 
 **Fig. 2:**
  
+ 
+ 
 <img width="450" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig3.png>
 
 **Fig. 3:**
+ 
+ 
  
 <img width="350" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig4a.png>  <img width="350" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig4b.png>  <img width="350" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig4c.png>  <img width="350" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig4d.png>
 
 **Fig. 4:**
 
+
+
 <img width="250" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig5.png>
 
 **Fig. 5:**
+
+
 
 <img width="600" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig6a.png>  <img width="600" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig6b.png>
 
 **Fig. 6:**
 
+
+
 <img width="600" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig7a.png>  <img width="600" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig7b.png>
 
 **Fig. 7:**
+
+
 
 <img width="500" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig8.png>
 
 **Fig. 8:**
 
+
+
 <img width="400" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig9a.png>  <img width="400" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig9b.png>  <img width="400" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig9c.png>
 
 **Fig. 9:**
+
+
 
 <img height="300" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig10a.png>  <img height="300" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig10b.png>  <img height="300" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig10c.png>
 
 **Fig. 10:**
 
+
+
 <div align=left>
  
-# References
+## References
 
  1. Riveiro, B., Lourenço, P. B., Oliveira, D. V., González‐Jorge, H., & Arias, P. (2016). Automatic morphologic analysis of quasi‐periodic masonry walls from lidar. Computer-Aided Civil and Infrastructure Engineering, 31(4), 305-319.
  2. Boscato, G., Russo, S., Ceravolo, R., & Fragonara, L. Z. (2015). Global Sensitivity-Based Model Updating for Heritage Structures. Computer-Aided Civil and Infrastructure Engineering.
