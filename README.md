@@ -40,13 +40,13 @@ Hence, two contributions are aimed to be made in this project. First, more than 
  
 **Fig. 1:** Schematic diagram of image classification for a brick unit
 
- 
+<br /> <br /> 
  
 <img width="450" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig2.png>
 
 **Fig. 2:**
  
- 
+ <br /> <br /> 
  
 <img width="450" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig3.png>
 
