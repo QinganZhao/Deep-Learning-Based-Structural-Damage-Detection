@@ -1,16 +1,20 @@
+<div align=center>
+ 
 # Deep Learning based Structural Damage Detection
-
-Qingan Zhao (qingan_zhao@berkeley.edu)
 
 Stuctural damage identification and localization using convolutional neural networks
 
-# Project Summary
+Franklin Zhao (qingan_zhao@berkeley.edu)
+
+<div align=left>
+
+## Project Summary
 
 1. Proposed a damage identification and localization technique for masonry structures using convolutional neural networks (based on AlexNet and GoogleNet using Caffe and Tensorflow).
 
 2. Applied region-based convolutional neural networks (Faster-RCNN) to damage detection for masonry structures.
 
-# Application on Masonry Structures
+## Application on Masonry Structures
 
 **Abstract:** Manual inspection (i.e., visual inspection and/or with professional equipment) is the most dominant approach to identifying and assessing superficial damage to masonry historic structures at present. However, such method is inefficient, heavily relying on professionals and their experience. To overcome those limits, in this project, two deep learning-based damage detection techniques for masonry historic structures are proposed. One is using a sliding window-based deep learning method to identify and localize 3 damage categories (crack, efflorescence and spall) with the accuracy of 90.9%, the other is using a region proposal-based deep learning method to detect damaged brick units in quasi real-time (0.047 seconds per image). The advantage of deep learning method is that with sufficient training samples, machines are able to learn how to detect the damage automatically via training without using manual feature extraction techniques. Once the model training is complete, it can be used to detect damage directly. The detection requires hardly any professional abilities or experience, and is hardly affected by the environment. Hence, high efficiency and accuracy can be realized.
 
@@ -36,6 +40,7 @@ Hence, two contributions are aimed to be made in this project. First, more than 
  
 **Fig. 1:** Schematic diagram of image classification for a brick unit
 
+ 
  
 <img width="450" src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig2.png>
 
