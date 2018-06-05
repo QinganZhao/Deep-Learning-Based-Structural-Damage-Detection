@@ -4,7 +4,7 @@
 
 [**Franklin Zhao**](http://franklinzhao.top) (me, email: qingan_zhao@berkeley.edu)
 
-[**Xuefeng Zhao**](http://www.cloudshm.com/intros/zhaoxuefeng_en.pdf) (my undergraduate advisor who supported this project) 
+**Xuefeng Zhao** (my undergraduate advisor who supported this project) 
 
 **Peng Zhao** (provided the data-set for this project)
 
