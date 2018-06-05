@@ -13,6 +13,4 @@
 2. Applied region-based convolutional neural networks (Faster-RCNN) to damage detection in real-time.
 
 
-More details please refer to [Caffe](https://github.com/BVLC/caffe) and Faster-RCNN ([Python](https://github.com/rbgirshick/py-faster-rcnn)/[MATLAB](https://github.com/rbgirshick/py-faster-rcnn))
-
 ### Please cite this project in your publications if it helps your research
