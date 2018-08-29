@@ -35,7 +35,6 @@ You can either use our [dataset](https://pan.baidu.com/s/1NlwCz3P7sqb3d26p_CefbQ
 **Training:**
 The training environment depends on your dataset and CNNs. For example, if your dataset is large (GB/TB/PB), you might consider using distributed workstations instead of PCs, which also applies to deeper CNNs (ResNet, Inception v-4, etc.). You might also need GPU(s) for computing since it is much more faster that CPU-only.
 
-<br /> 
 For tools training the dataset, I would suggest using [TensorFlow](https://www.tensorflow.org) or [PyTorch](https://pytorch.org). But if you are only into the application, [Caffe](http://caffe.berkeleyvision.org) is fine. If you choose Caffe, the only thing you need to do is to change the hyperparameters in the .prototxt files.
 
 **Application and visualization**
