@@ -90,7 +90,7 @@ If your are going to apply deep learning to real-world engineering problems, onl
 
 <br /> 
 
-<img width=“400” src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig9.png>
+<img width=“350” src=https://github.com/QinganZhao/Deep-Learning-based-Structural-Damage-Detection/blob/master/markdown_figures/fig9.png>
 
 **Fig. 9:** Test results based on GoogLeNet-22 together with sliding window algorithm
 
