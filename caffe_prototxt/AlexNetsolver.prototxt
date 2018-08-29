@@ -1,0 +1,14 @@
+net: "D:/caffe-master/project/20180316/train_val.prototxt"
+test_iter: 72   
+test_interval: 500
+base_lr: 0.001
+lr_policy: "step"
+gamma: 0.1
+stepsize: 5000
+display: 20
+max_iter: 100000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 5000
+snapshot_prefix: "D:/caffe-master/project/20180316"
+solver_mode: GPU
