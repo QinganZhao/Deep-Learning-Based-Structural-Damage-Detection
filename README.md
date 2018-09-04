@@ -37,7 +37,7 @@ The training environment depends on your dataset and CNNs. For example, if your 
 
 For tools training the dataset, I would suggest using [TensorFlow](https://www.tensorflow.org) or [PyTorch](https://pytorch.org). But if you are only into the application, [Caffe](http://caffe.berkeleyvision.org) is fine. If you choose Caffe, the only thing you need to do is to change the hyperparameters in the .prototxt files.
 
-**Application and visualization**
+**Application and visualization:**
 If your are going to apply deep learning to real-world engineering problems, only classifing the object in a CV way is not enough. You should figure out how to present or process the output. Also, applicable and reproducible are also very important. For example, you might ask yourself: What is the cost? How is the efficiency? Or does it even work in the real-world problems?
 
 ## Figure Illustration & Selected Results
